@@ -1,6 +1,8 @@
 # Web Portfolio Workshop
 
-Variations of the web portfolio workshop. Please check the different branches to find an appropriate starting point.
+## hello 
+
+Variations of the web __portfolio__ workshop. Please check the different branches to find an appropriate starting point.
 
 This is a simple web portfolio. The latest version features:
 
